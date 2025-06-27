@@ -11,18 +11,6 @@
 
 ---
 
-### 📊 Discord Stats
-
-[![Discord](https://img.shields.io/badge/Discord-fahim28_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1236182929558732802)
-
-
----
-
-### 💻 Tech Stack  
-JavaScript | Node.js | Discord.js | QuickChart
-
----
-
 ### 🔗 Connect with Me  
 [![Discord](https://img.shields.io/badge/Discord-fahim28_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1236182929558732802)  
-[![GitHub](https://img.shields.io/badge/GitHub-Athernix-181717?style=flat&logo=github)](https://github.com/Athernix00)
+
