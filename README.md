@@ -12,8 +12,9 @@
 ---
 
 ### 📊 Discord Stats
+
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/728249551042281482.png" alt="Discord Stats" />
+  <img src="https://lanyard.cnrad.dev/api/1236182929558732802" alt="Discord Status" />
 </p>
 
 ---
