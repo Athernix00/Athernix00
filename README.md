@@ -1,8 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Hi+I+am+Athernix+%E2%9A%A1" />
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5555&center=true&vCenter=true&width=435&lines=Hi+I'm+Athernix+🔥;Backend+%7C+Bot+Developer;Coding+%3E+Sleeping;Always+Building+Cool+Stuff" />
-
-</div>
 
 ## 🔧 Tech Stack
 
