@@ -13,9 +13,8 @@
 
 ### 📊 Discord Stats
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1236182929558732802" alt="Discord Status" />
-</p>
+[![Discord](https://img.shields.io/badge/Discord-fahim28_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1236182929558732802)
+
 
 ---
 
