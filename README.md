@@ -1,32 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&section=header&text=Welcome%20to%20Athernix's%20World!&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Welcome%20to%20Athernix's%20World!&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+I'm+Athernix+🔥;Discord+Bot+Developer;Node.js+%7C+Backend+Lover;Building+Epic+Things!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5555&center=true&vCenter=true&width=440&lines=Hi+I'm+Athernix+🚀;Backend+%7C+Bot+Developer;Coding+%3E+Sleeping;Always+Building+Cool+Stuff" />
 </p>
+
+---
+
+### ⚡ One-liner Bio
+> Building bots, breaking limits — I'm Athernix, the architect of automation.
 
 ---
 
 ### 💻 About Me
-- 🤖 Developer of **AtherniX Bot** & **Purgy Bot**
-- ⚡ Focused on **Discord.js**, **Node.js**, and **QuickChart**
-- 🌐 Passionate about automation, bots, and clean UI/UX
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athernix&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Athernix&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Athernix&bg_color=0d1117&color=FACC15&line=FFA500&point=F97316&area=true&hide_border=true" />
-</p>
+- 💬 Node.js | Discord.js | QuickChart enthusiast  
+- 🔧 Focused on making **simple tools** insanely powerful  
+- 🧠 Always up for new challenges  
 
 ---
 
@@ -38,12 +28,13 @@
 
 ---
 
-### 🔗 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-Athernix%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![GitHub](https://img.shields.io/badge/GitHub-Athernix-181717?style=for-the-badge&logo=github)](https://github.com/Athernix)
+### 🎮 Wanna Play a Game?
+> 🐍 Try this snake game right in your browser!
 
----
+[![Snake Game](https://img.shields.io/badge/-Play%20Snake%20Game-red?style=for-the-badge&logo=google-play)](https://github.com/Platane/snk)
 
+```md
+<!-- GitHub Snake game animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Athernix&label=Profile+Views&color=FFA500&style=flat" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
