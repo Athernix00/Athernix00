@@ -2,32 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=440&lines=Hi+I+am+Athernix+%E2%9A%A1" />
 </p>
 
+## I'm a Developer, Bot Maker, and Automation Enthusiast!  
 
-## 🔧 Tech Stack
+🔭 I’m currently working on Discord Bots like Purgy  
+👯 I’m looking to collaborate with passionate developers!  
+🥅 2025 Goals: Build more open-source tools and grow my skills  
+⚡ Fun fact: I love turning ideas into code and breaking limits  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,mongodb,postgres,docker,linux,aws,redis,git" />
-</div>
+---
 
-## 📊 Stats
+### 📊 Discord Stats
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/1236182929558732802" alt="Discord Status" />
+</p>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahim28_&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Streak Stats](https://streak-stats.demolab.com?user=fahim28_&theme=radical&hide_border=true)
-  
-  ![Discord](https://discord.c99.nl/widget/theme-3/728249551042281482.png)
-  
-</div>
+---
 
-## 📫 Connect With Me
+### 💻 Tech Stack  
+JavaScript | Node.js | Discord.js | QuickChart
 
-<div align="center">
-  <a href="https://discord.com/users/fahim28_">
-    <img src="https://img.shields.io/badge/Discord-fahim28_-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
+
+### 🔗 Connect with Me  
+[![Discord](https://img.shields.io/badge/Discord-fahim28_-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1236182929558732802)  
+[![GitHub](https://img.shields.io/badge/GitHub-Athernix-181717?style=flat&logo=github)](https://github.com/Athernix00)
