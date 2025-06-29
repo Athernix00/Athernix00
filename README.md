@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Bot Maker, and Automation Enthusiast!  
 
-🔭 I’m currently working on Discord Bots like Purgy  
+🔭 I’m currently working on Discord Bots like Purgy, Sugvento etc.  
 👯 I’m looking to collaborate with passionate developers!  
 🥅 2025 Goals: Build more open-source tools and grow my skills  
 ⚡ Fun fact: I love turning ideas into code and breaking limits  
